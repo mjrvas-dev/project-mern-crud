@@ -73,7 +73,7 @@ Go to: [localhost:3000](http://localhost:3000/)
 
 ### Show your support
 
-Give a if you like this website!
+Give a ⭐ if you like this website!
 
 
 
