@@ -1,7 +1,3 @@
-# PROJECT MERN CRUD
-
-
-
 <h2 align="center">
   Project Tasks CRUD - v1.0<br/>
   <a href="https://github.com/mjrvas-dev" target="_blank">mjrvas-dev</a>
@@ -16,12 +12,12 @@
 
 </center>
 
-<div align="center">
+</center>
     🔹
     <a href="https://github.com/mjrvas-dev/project-mern-crud/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
     <a href="https://github.com/mjrvas-dev/project-mern-crud/issues">Request Feature</a>
-</div>
+</center>
 
 ## TL;DR
 
