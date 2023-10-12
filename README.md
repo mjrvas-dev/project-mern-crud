@@ -16,12 +16,12 @@
 
 </center>
 
-<h3 align="center">
+<div align="center">
     🔹
     <a href="https://github.com/mjrvas-dev/project-mern-crud/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
     <a href="https://github.com/mjrvas-dev/project-mern-crud/issues">Request Feature</a>
-</h3>
+</div>
 
 ## TL;DR
 
@@ -38,7 +38,9 @@ This project was built using these technologies.
 - Express.js
 - MongoDB
 
+## Getting started
 
+Clone down this repository. You will need `node.js` and `git` installed globally on you machine.
 
 
 
@@ -85,11 +87,6 @@ yarn build
 
 
 
-## Getting started
-
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
 
 ## Add your files
 
