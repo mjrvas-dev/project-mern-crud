@@ -6,16 +6,16 @@
 <br/>
 
 <center>
-  [![GitHub Repo stars](https://img.shields.io/github/stars/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge) &nbsp;
-  [![GitHub forks](https://img.shields.io/github/forks/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge)
-<center>
+  ![GitHub Repo stars](https://img.shields.io/github/stars/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge) &nbsp;
+  ![GitHub forks](https://img.shields.io/github/forks/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge)
+</center>
 
 <center>
     🔹
     <a href="https://github.com/mjrvas-dev/project-mern-crud/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
     <a href="https://github.com/mjrvas-dev/project-mern-crud/issues">Request Feature</a>
-<center>
+</center>
 
 ## TL;DR
 
@@ -42,12 +42,24 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 
 ```sh
 $ git clone https://github.com/mjrvas-dev/project-mern-crud.git
-$ npm install
 ```
-**2 -** Run application:
+**2 -** Prepare the environment:
 
 ```sh
-$ npm run start
+# Frontend ubication project-mern-crud/client
+$ npm install
+
+# Backend ubication project-mern-crud/
+$ npm install
+```
+**3 -** Run application:
+
+```sh
+# Frontend ubication project-mern-crud/client
+$ npm run dev
+
+# Backtend ubication project-mern-crud/client
+$ npm run dev 
 ```
 
 Go to: [localhost:3000](http://localhost:3000/)
