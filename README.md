@@ -47,25 +47,33 @@ $ git clone https://github.com/mjrvas-dev/project-mern-crud.git
 ```
 **2 -** Prepare the environment:
 
+Open the project folder.
 ```sh
-# Frontend - Navigate to this location project-mern-crud/client
+# Frontend 
+# Navigate to this location `project-mern-crud/client`
 $ npm install
 
-# Backend Navigate to this location project-mern-crud/
+# Backend
+# Navigate to this location `project-mern-crud/`
 $ npm install
 ```
 **3 -** Run application:
 
 ```sh
-# Frontend ubication project-mern-crud/client
+# Frontend
+# in the project directory `project-mern-crud/client` you can run
 $ npm run dev
 
-# Backtend ubication project-mern-crud/client
+# Backtend
+# in the project directory `/project-mern-crud` you can run
 $ npm run dev 
 ```
 
 Go to: [localhost:3000](http://localhost:3000/)
 
+### Show your support
+
+Give a if you like this website!
 
 
 
