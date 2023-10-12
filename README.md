@@ -5,19 +5,17 @@
 
 <br/>
 
-<center>
+<h2 align="center">
+  ![GitHub Repo stars](https://img.shields.io/github/stars/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge) &nbsp;
+  ![GitHub forks](https://img.shields.io/github/forks/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge)
+<h2 align="center">
 
-![GitHub Repo stars](https://img.shields.io/github/stars/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge)
-
-</center>
-
-</center>
+<h2 align="center">
     🔹
     <a href="https://github.com/mjrvas-dev/project-mern-crud/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
     <a href="https://github.com/mjrvas-dev/project-mern-crud/issues">Request Feature</a>
-</center>
+<h2 align="center">
 
 ## TL;DR
 
@@ -37,6 +35,24 @@ This project was built using these technologies.
 ## Getting started
 
 Clone down this repository. You will need `node.js` and `git` installed globally on you machine.
+
+## Run the project locally
+
+**1 -** Clone the project and install the dependencies:
+
+```sh
+$ git clone https://github.com/mjrvas-dev/project-mern-crud.git
+$ cd react-pomodoro
+$ npm install
+```
+**2 -** Run application:
+
+```sh
+$ npm run start
+```
+
+Go to: [localhost:8080](http://localhost:8080/)
+
 
 
 
