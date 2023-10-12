@@ -5,17 +5,17 @@
 
 <br/>
 
-<h2 align="center">
+<center>
   ![GitHub Repo stars](https://img.shields.io/github/stars/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge) &nbsp;
   ![GitHub forks](https://img.shields.io/github/forks/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge)
-<h2 align="center">
+<center>
 
-<h2 align="center">
+<center>
     🔹
     <a href="https://github.com/mjrvas-dev/project-mern-crud/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
     <a href="https://github.com/mjrvas-dev/project-mern-crud/issues">Request Feature</a>
-<h2 align="center">
+<center>
 
 ## TL;DR
 
@@ -42,7 +42,6 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 
 ```sh
 $ git clone https://github.com/mjrvas-dev/project-mern-crud.git
-$ cd react-pomodoro
 $ npm install
 ```
 **2 -** Run application:
@@ -51,7 +50,7 @@ $ npm install
 $ npm run start
 ```
 
-Go to: [localhost:8080](http://localhost:8080/)
+Go to: [localhost:3000](http://localhost:3000/)
 
 
 
