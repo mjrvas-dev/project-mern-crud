@@ -14,15 +14,10 @@
 
 
 <div align="center">
-  <sup>
-    <br />
-    <br />
-  
+  <sup>  
   ![GitHub Repo stars](https://img.shields.io/github/stars/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge) &nbsp;
   ![GitHub forks](https://img.shields.io/github/forks/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge)<em></em>
-
   </sup>
-  <br />
   <br />
 </div>
 
