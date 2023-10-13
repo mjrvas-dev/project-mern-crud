@@ -8,14 +8,9 @@
 <div align="center">
   <sup>
       ![GitHub Repo stars](https://img.shields.io/github/stars/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge) &nbsp;
-      ![GitHub forks](https://img.shields.io/github/forks/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge)
-  
-<!-- </center> -->
+      ![GitHub forks](https://img.shields.io/github/forks/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge)<em></em>
 
-<!-- <h3 align="center"> -->
-    <br />
-    <br />
-    🔹
+    🔹 
   <a href="https://github.com/mjrvas-dev/project-mern-crud/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
   <a href="https://github.com/mjrvas-dev/project-mern-crud/issues">Request Feature</a>
