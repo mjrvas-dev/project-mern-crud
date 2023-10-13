@@ -57,7 +57,13 @@ $ npm install
 # Navigate to this location `project-mern-crud/`
 $ npm install
 ```
-**3 -** Run application:
+**3 -** Configure database connection:
+
+Open the project folder `project-mern-crud/src/db.js`
+```sh
+# Change the `mongoDB` connection string to your own mongo database
+```
+**4 -** Run application:
 
 ```sh
 # Frontend
