@@ -6,16 +6,45 @@
 <br/>
 
 <div align="center">
-  <sup>
-      ![GitHub Repo stars](https://img.shields.io/github/stars/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge) &nbsp;
-      ![GitHub forks](https://img.shields.io/github/forks/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge)<em></em>
-  </sup>
-
     🔹 
   <a href="https://github.com/mjrvas-dev/project-mern-crud/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
   <a href="https://github.com/mjrvas-dev/project-mern-crud/issues">Request Feature</a>
 </div>
+
+
+<div align="center">
+  <h1>
+    <br/>
+    <br/>
+    💙
+    <br />
+    package-template
+    <br />
+    <br />
+    <br />
+    <br />
+  </h1>
+  <sup>
+    <br />
+    Template project to build a new NPM package using TypeScript</em>
+    <br />
+    <br />
+  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge) &nbsp;
+  ![GitHub forks](https://img.shields.io/github/forks/mjrvas-dev/project-mern-crud?color=red&logo=github&style=for-the-badge)<em></em>
+
+  </sup>
+  <br />
+  <br />
+</div>
+
+
+
+
+
+
+
 
 ## TL;DR
 
