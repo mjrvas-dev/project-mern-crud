@@ -14,20 +14,7 @@
 
 
 <div align="center">
-  <h1>
-    <br/>
-    <br/>
-    💙
-    <br />
-    package-template
-    <br />
-    <br />
-    <br />
-    <br />
-  </h1>
   <sup>
-    <br />
-    Template project to build a new NPM package using TypeScript</em>
     <br />
     <br />
   
